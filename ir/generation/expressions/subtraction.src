@@ -1,4 +1,0 @@
-fn test() = int {
-    int x = 10 - 3;
-    return x;
-}
