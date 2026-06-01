@@ -1,3 +1,0 @@
-fn do_nothing() = void {
-    int x = 5;
-}
