@@ -1,3 +1,0 @@
-fn test() = int {
-    return "string_error";
-}

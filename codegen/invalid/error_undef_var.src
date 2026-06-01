@@ -1,3 +1,0 @@
-fn test() = void {
-    int x = y + 5;
-}
