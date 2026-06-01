@@ -1,3 +1,0 @@
-fn main() = void {
-    int x = unknown_var + 5;
-}
